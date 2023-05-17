@@ -1,6 +1,6 @@
 # ProjetoIntegrado1.0GUI
 
-Software to facilitate the tests of insertion, removal and edition of date stored in the mongodb database used for the project. It serves, aswell, to simplify the visualization of documents present in each collection of said database.
+Software to facilitate the tests of insertion, removal and edition of data stored in the mongodb database used for the project. It serves, aswell, to simplify the visualization of documents present in each collection of said database.
 
 Software that allows the insertion of documents, removal of documents and edition of documents presented at the project database.
 
